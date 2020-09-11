@@ -11,3 +11,5 @@ Tenemos como consigna responder el **cuestionario 1** por el aula virtual. Para 
 
 - Mario Bunge: ¿Qué es la Ciencia? (Lectura opcional)
 
+## Resumen
+- [La estructura de la Ciencia. Paidós Surcos pp. 17-33.](la%20estructura%20de%20la%20ciencia.md)

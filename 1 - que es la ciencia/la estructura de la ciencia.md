@@ -30,13 +30,20 @@ No existe un linea nítida que diferencie ambos conocimientos, pero si un núcle
 
    En resumen, al aumentar la **determinación** de los enunciados (precision de las palabras, especificidad) e incorporarlos a sistemas explicativos lógicamente integrados, la ciencia moderna agudiza los poderes de discriminación de sus procedimientos de prueba (se rechaza con mas frecuencia los enunciados que no cumplen) y aumenta las fuentes de elementos de juicio para sus conclusiones.
 
-5. Como se menciono antes el conocimiento de sentido común se interesa por la influencia de los sucesos sobre cuestiones que son del objeto de especial valoración por los hombres. La ciencia no es tan limitada, la búsqueda de explicaciones sistemáticas exigen que la investigación sea orientada hacia relaciones de dependencia sin tomar en cuenta su influencia sobre las valoraciones humanas. Es decir, la ciencia deja de lado los valores inmediatos de las cosas, de modo que sus enunciados tienen un parecido remoto con los suceso y características familiares de la vida cotidiana.
+5. Como se menciono antes el conocimiento de sentido común se interesa por la influencia de los sucesos sobre cuestiones que son del objeto de especial valoración por los hombres. La ciencia no es tan limitada, la búsqueda de explicaciones sistemáticas exigen que la investigación sea orientada hacia relaciones de dependencia sin tomar en cuenta su influencia sobre las **valoraciones humanas**. Es decir, la ciencia deja de lado los valores inmediatos de las cosas, de modo que sus enunciados tienen un parecido remoto con los suceso y características familiares de la vida cotidiana.
 
-   Los enunciados científicos utilizan conceptos muy abstractos cuya relación con las cualidades comunes que manifiestan las cosas en sus escenario cotidiano no es en modo alguno obvio. Sin embargo, la importancia de tales enunciados para cuestiones de la vida cotidiana es indiscutible. Vale recordar que los enunciados científicos abstractos son asi por consecuencia inevitable de la búsqueda de explicaciones sistemáticas y de gran alcance.
+   Los enunciados científicos utilizan conceptos muy **abstractos** cuya relación con las cualidades comunes que manifiestan las cosas en sus escenario cotidiano no es en modo alguno obvio. Sin embargo, la importancia de tales enunciados para cuestiones de la vida cotidiana es indiscutible. Vale recordar que los enunciados científicos abstractos son asi por consecuencia inevitable de la búsqueda de explicaciones sistemáticas y de gran alcance.
 
    El conocimiento de sentido común utiliza concepciones abstractas también, pero difiere del conocimiento científico en que sus formulaciones de propiedades estructurales son muy generales y abstraídas de las características familiares manifestadas por clases limitadas de objetos habitualmente solo en condiciones especiales.
 
-6.
+6. La importante diferencia entre la ciencia y el sentido común deriva de la deliberada **política de la ciencia** de exponer sus afirmaciones cognoscitiva al repetido desafío de datos observacionales críticamente probatorios y obtenidos en condiciones cuidadosamente controladas. Pero esto quiere decir que las creencias del sentido común  sean erróneas o que no se basen en hechos verificables. Significa que las creencias de sentido común no están sometidas a un escrutinio sistemático para determinar la exactitud de las creencias y el ámbito de su validez.
+
+   Con esto podemos decir que la diferencia entre ambos conocimientos son que el conocimiento científico es el producto del **método científico**. Pero hay que enter que el método científico:
+   - No consiste en un conjunto de reglas prescritas a seguir. No hay reglas para el descubrimiento y la invención en la ciencia, ni en el arte.
+   - No consiste en el uso de ciertos tipos de técnicas.
+   - No asegura eliminar de forma efectiva el sesgo personal o fuentes de error que puedan invalidar la investigación. Ni asegura la verdad de toda conclusion a la que se llegue.
+
+   La practica del método científico consiste en la persistencia critica de argumentaciones, a la luz de de criterios probados para juzgar la confiabilidad de los procedimientos por los cuales se obtiene los datos que sirven como **elementos de juicio** y para evaluar la fuerza probatoria de esos elementos de juicio sobre los que se basan las conclusiones. Ahora también, las hipótesis que encuentran un fuerte apoyo de los elementos de juicio, pueden ser falsas a pesar de que los elementos de juicio sean verdaderos. Por esto las aserciones científicas no invariablemente verdaderas. Por para finalizar podemos decir que la diferencia entre las aserciones cognoscitivas de la ciencia y las del sentido común, es que la ultima son aceptadas sin una evaluación critica de los elementos de juicio disponibles, mientras que los elementos de juicio que apoyan las conclusiones de la ciencia se adecuan a patrones tales que conclusiones basadas en elementos de juicio de estructura similar siguen estando de acuerdo con los datos fácticos, cuando se obtienen nuevos datos.
 ---
 ## Resumen 😁
 - Existes (dentro del dominio de esta lectura) 2 tipos de conocimientos, el **pre-científico** o de **sentido común** y el de la **ciencia** o **científico**. Ya como su nombre indica, el pre-científico se puede refinar o mejorar a traves de métodos para llegar a un conocimiento científico.
@@ -46,11 +53,5 @@ No existe un linea nítida que diferencie ambos conocimientos, pero si un núcle
   2. Consciencia de los limites dentro de los cuales las creencias son validas o sus practicas exitosas. Preocupación por el ámbito de aplicabilidad de sus creencias.
   3. Las suposiciones contradictorias son útiles para el conocimiento científico porque sirven de base para investigaciones, suelen ser temporales por mas genuinas que parezcan.
   4. La determinación en los enunciados es fundamental, debido a que provoca que los procedimientos de pruebas sean mejores y aumenta las fuentes de elementos de juicios para las conclusiones.
-  5. La ciencia es sus enunciados utiliza terminas muy generales y abstractos con el fin de poder elaborar un sistema explicativo para grandes conjunto de fenómenos diversos, dejando de lado los valores inmediatos de las cosas.
-  6. 
-  - Explica las razones del juicio, de los hechos. Se busca saber el por que
-  - Relacion de los temas, encontrar relaciones, y unificar. (Sistemizacion)
-  - Es conciente de sus limites
-  - Definir bien las palabras y terminos, que no halla ambiguedades
-  - Mas presicion, implica mayor filtro y da mejores resultados
-  - 
+  5. La ciencia es sus enunciados utiliza términos muy generales y abstractos con el fin de poder elaborar un sistema explicativo para grandes conjunto de fenómenos diversos, dejando de lado los valores inmediatos de las cosas.
+  6. Las aserciones científicas son el producto del método científico, que no asegura conclusiones absolutamente verdaderas, pero si conclusiones con elementos de juicio probadas críticamente que se mantienen estables a la obtención de nuevos datos gracias al seguimiento de patrones.
