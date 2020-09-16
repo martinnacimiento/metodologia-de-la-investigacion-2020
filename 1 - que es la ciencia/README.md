@@ -1,7 +1,7 @@
 # ¿Qué es la ciencia?
 
 ## Tarea
-Tenemos como consigna responder el **cuestionario 1** por el aula virtual. Para eso debemos: 
+Tenemos como consigna responder el [**cuestionario 1**](cuestionario1.md) por el aula virtual. Para eso debemos: 
 - Leer los textos proporcionados por la cátedra, identificando los conceptos principales y sus relaciones.
 - Utilizar las preguntas del cuestionario como guía de estudio.
 
